@@ -1,0 +1,7 @@
+# .eslintignore
+
+ios
+android
+build
+coverage
+src/components/assets/icons/
